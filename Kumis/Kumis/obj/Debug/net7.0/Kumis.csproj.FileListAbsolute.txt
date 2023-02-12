@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\bin\Debug\net7.0\Kumis.exe
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\bin\Debug\net7.0\Kumis.deps.json
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\bin\Debug\net7.0\Kumis.runtimeconfig.json
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\bin\Debug\net7.0\Kumis.dll
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\bin\Debug\net7.0\Kumis.pdb
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\Kumis.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\Kumis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\Kumis.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\Kumis.AssemblyInfo.cs
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\Kumis.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\Kumis.dll
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\refint\Kumis.dll
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\Kumis.pdb
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\Kumis.genruntimeconfig.cache
+C:\Users\djang\source\repos\SuperMegaIltraKrutayaMmoRpgKumis\GameLogic_1\RpgLogicProject\obj\Debug\net7.0\ref\Kumis.dll
