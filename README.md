@@ -1,1 +1,1 @@
-# SuperMegaUltraKrutayaMmoRpgKumis
+Это супер мега ультра крутая MMO RPG Игра - Кумыс
