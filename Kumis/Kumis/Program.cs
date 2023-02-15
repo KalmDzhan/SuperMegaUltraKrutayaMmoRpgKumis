@@ -76,7 +76,7 @@ void Choose()
             Choose();
             break;
         case '3':
-            Console.WriteLine("Введи слот предмета, который хочешь удалить");
+            Console.WriteLine("\nВведи слот предмета, который хочешь удалить");
             int removeSlot = Convert.ToInt32(Console.ReadLine());
             BackPack.Remove(removeSlot);
             Choose();
