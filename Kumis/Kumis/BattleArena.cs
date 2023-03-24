@@ -86,12 +86,10 @@
 
                 if (Hero.Hp <= 0)
                 {
-                    Hero.Hp = 0;
                     return 0;
                 }
                 else if(Enemy.Hp <= 0)
                 {
-                    Enemy.Hp = 0;
                     Hero.Level += 1;
                     return 1;
                 }
