@@ -7,7 +7,7 @@ Random rand = new();
 // Реализовать механизм лута предметов с противника в случае победы
 
 Console.Write("Кто ты, Воин?: ");
-string heroName = Console.ReadLine()!;
+string heroName = Console.ReadLine();
 
 Console.WriteLine("Выбери класс героя:");
 Console.WriteLine("1 - Человек, 2 - Эльф, 3- Орк");
